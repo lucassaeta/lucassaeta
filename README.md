@@ -6,10 +6,6 @@
 
 Hello there! I'm Lucas, a Software Engineering student with mention on Cybersecurity. 
 
-<div align="center">
-  <img src="profile.jpeg" style="width: 200px; height: 280px;">
-</div>
-
 ## 🛠️ Skills & Tools
 I am experienced with a variety of programming languages, including:
 
