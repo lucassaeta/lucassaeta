@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hello.gif">
+  <img src="result.gif">
  </div>
 <div align="center">
   <h1>🧑 ABOUT ME 🧑</h1>
