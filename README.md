@@ -6,6 +6,10 @@
 
 Hello there! I'm Lucas, a Software Engineering student with mention on Cybersecurity. 
 
+<div align="center">
+  <img src="profile.jpeg" style="width: 200px; height: 280px;">
+</div>
+
 ## 🛠️ Skills & Tools
 I am experienced with a variety of programming languages, including:
 
@@ -20,10 +24,6 @@ I strive to stay up-to-date on the latest technologies and continue to expand my
 
 ## 📚 Projects & Portfolio
 I've been part and head of several exciting projects throughout my studies. You can find my portfolio and repositories on [GitHub](https://github.com/lucassaeta?tab=repositories).
-
-<div align="center">
-  <img src="profile.jpeg" style="width: 200px; height: 280px;">
-</div>
 
 ## 📫 Contact Me
 Feel free to reach out to me via email: [lucassaeta2@gmail.com](mailto:lucassaeta2@gmail.com).
